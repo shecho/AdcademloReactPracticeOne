@@ -1,0 +1,9 @@
+.panel-container{
+    display: flex;
+    
+    justify-content: space-around;
+    text-align: center;
+    background-color: rgb(240, 246, 244);
+    align-items: center;
+    
+}
